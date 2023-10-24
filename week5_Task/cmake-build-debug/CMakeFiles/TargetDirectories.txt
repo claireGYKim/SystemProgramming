@@ -1,0 +1,3 @@
+/Users/kimgyeong-yeon/CLionProjects/week5_Task/cmake-build-debug/CMakeFiles/week5_Task.dir
+/Users/kimgyeong-yeon/CLionProjects/week5_Task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kimgyeong-yeon/CLionProjects/week5_Task/cmake-build-debug/CMakeFiles/rebuild_cache.dir

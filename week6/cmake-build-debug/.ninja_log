@@ -1,0 +1,12 @@
+# ninja log v5
+0	287	1697001631879868783	CMakeFiles/week6.dir/main.c.o	f3e24fba32ad166e
+3	332	1697005301587488731	CMakeFiles/week6.dir/link.c.o	8fb8ee901576be99
+1	289	1697001631883518970	CMakeFiles/week6.dir/ftype.c.o	1acb479cedbe9b45
+2	260	1697002293090284107	CMakeFiles/week6.dir/touch.c.o	982f6db4831b7bf6
+6	335	1697001802430581973	CMakeFiles/week6.dir/fchmod.c.o	ceffb18eff6edc9
+2	260	1697002293090275565	CMakeFiles/week6.dir/cptime.c.o	f061d082eed82585
+1	326	1697004410858752875	CMakeFiles/week6.dir/list1.c.o	b3cd2def95359ea1
+2	326	1697004410860834340	CMakeFiles/week6.dir/list2.c.o	2f4e69a64c7bb4b0
+4	333	1697005301587488814	CMakeFiles/week6.dir/unlink.c.o	a4ddef75beced2a8
+2	236	1697604177181151110	CMakeFiles/week6.dir/slink.c.o	a0a4e02d5b1cb22f
+3	237	1697604177181150986	CMakeFiles/week6.dir/rlink.c.o	daf178a2e52a27d1
